@@ -1,0 +1,11 @@
+D:\cat32tw\Desktop\mutiple\bin\Debug\mutiple.exe.config
+D:\cat32tw\Desktop\mutiple\bin\Debug\mutiple.exe
+D:\cat32tw\Desktop\mutiple\bin\Debug\mutiple.pdb
+D:\cat32tw\Desktop\mutiple\obj\Debug\mutiple.csproj.AssemblyReference.cache
+D:\cat32tw\Desktop\mutiple\obj\Debug\mutiple.csproj.SuggestedBindingRedirects.cache
+D:\cat32tw\Desktop\mutiple\obj\Debug\mutiple.Form1.resources
+D:\cat32tw\Desktop\mutiple\obj\Debug\mutiple.Properties.Resources.resources
+D:\cat32tw\Desktop\mutiple\obj\Debug\mutiple.csproj.GenerateResource.cache
+D:\cat32tw\Desktop\mutiple\obj\Debug\mutiple.csproj.CoreCompileInputs.cache
+D:\cat32tw\Desktop\mutiple\obj\Debug\mutiple.exe
+D:\cat32tw\Desktop\mutiple\obj\Debug\mutiple.pdb
